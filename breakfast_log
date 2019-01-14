@@ -1,6 +1,10 @@
-//This is the prmary function of my program
+// This is pretty contrived example
+
 function main() {
 	console.log("hello")
 }
 
 main()
+
+
+// end of file 
