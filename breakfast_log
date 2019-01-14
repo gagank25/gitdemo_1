@@ -1,1 +1,6 @@
-helllo world
+//This is the prmary function of my program
+function main() {
+	console.log("hello")
+}
+
+main()
